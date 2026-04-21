@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "3OVkbto1nVI=",
+  "dgSpecHash": "W60g9kA9ATw=",
   "success": true,
   "projectFilePath": "/Users/tmb/Code/C#/EventSourcingMicroservices/CQRS-ES/CQRS.Core/CQRS.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/tmb/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
+    "/Users/tmb/.nuget/packages/microsoft.extensions.logging.abstractions/2.0.0/microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "/Users/tmb/.nuget/packages/mongodb.bson/3.7.1/mongodb.bson.3.7.1.nupkg.sha512",
+    "/Users/tmb/.nuget/packages/mongodb.driver/3.7.1/mongodb.driver.3.7.1.nupkg.sha512",
+    "/Users/tmb/.nuget/packages/sharpcompress/0.30.1/sharpcompress.0.30.1.nupkg.sha512",
+    "/Users/tmb/.nuget/packages/snappier/1.0.0/snappier.1.0.0.nupkg.sha512",
+    "/Users/tmb/.nuget/packages/zstdsharp.port/0.7.3/zstdsharp.port.0.7.3.nupkg.sha512"
+  ],
   "logs": []
 }
